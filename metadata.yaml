@@ -1,5 +1,8 @@
 _repo: Roundabout-to-Moscow-An-Epicurean-Journey_65966
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65966-h/images/cover.jpg
 creator:
   author:
     agent_name: Bouton, John Bell
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '4272'
     url: http://www.gutenberg.org/2009/agents/4272
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65966#Roundabout-to-Moscow-An-Epicurean-Journey
 gutenberg_issued: '2021-07-31'
 gutenberg_type: Text
 identifiers:
